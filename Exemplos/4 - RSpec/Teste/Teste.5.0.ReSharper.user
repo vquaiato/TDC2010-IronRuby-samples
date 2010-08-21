@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9173E81C-A1E5-4F19-8BB0-697E1B99DDBC/f:Class1.cs" caret="373" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9173E81C-A1E5-4F19-8BB0-697E1B99DDBC/f:Class1.cs" caret="362" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="int" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="num1" priority="0" />
+      <Item value="num2" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="textoCaixaBaixa" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToUpper`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
