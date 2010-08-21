@@ -1,0 +1,163 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:App.config" caret="423" fromTop="10" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:RubyEngine.cs" caret="354" fromTop="7" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="890" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1753" fromTop="18" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:App.config" caret="151" fromTop="2" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:App.config" caret="423" fromTop="10" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1753" fromTop="27" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1753" fromTop="11" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1323" fromTop="4" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="2" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1323" fromTop="27" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1323" fromTop="14" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="7" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="128" fromTop="7" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="16" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="20" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="4" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="141" fromTop="2" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1068" fromTop="1" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="699" fromTop="12" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1151" fromTop="21" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1241" fromTop="15" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="438" fromTop="7" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1366" fromTop="16" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="4" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="130" fromTop="3" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1536" fromTop="11" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="1670" fromTop="15" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:RubyEngine.cs" caret="1001" fromTop="17" />
+      <File id="D454C7E2-1CCB-44EA-A668-7CC0EDD6C1B9/f:Program.cs" caret="890" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.5\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="11" />
+      <Item value="static" priority="5" />
+      <Item value="dynamic" priority="4" />
+      <Item value="string" priority="10" />
+      <Item value="CreateEngine`0" priority="7" />
+      <Item value="script" priority="4" />
+      <Item value="scriptSource" priority="3" />
+      <Item value="var" priority="8" />
+      <Item value="RubyEngineCreator`0" priority="1" />
+      <Item value="Console`0" priority="6" />
+      <Item value="void" priority="3" />
+      <Item value="CriandoScriptDeMetodo`0" priority="0" />
+      <Item value="CriandoScriptDeClasse`0" priority="0" />
+      <Item value="IronRuby" priority="3" />
+      <Item value="Ruby`0" priority="0" />
+      <Item value="Hosting" priority="1" />
+      <Item value="using" priority="1" />
+      <Item value="Runtime" priority="1" />
+      <Item value="Builtins" priority="0" />
+      <Item value="GlobalVariable`0" priority="0" />
+      <Item value="GlobalVariables`0" priority="0" />
+      <Item value="RubyContext`0" priority="0" />
+      <Item value="RubyScope`0" priority="0" />
+      <Item value="ScriptScope`0" priority="2" />
+      <Item value="value" priority="3" />
+      <Item value="variable" priority="1" />
+      <Item value="object" priority="1" />
+      <Item value="scope" priority="7" />
+      <Item value="if" priority="0" />
+      <Item value="ironRubyEngine" priority="0" />
+      <Item value="ScriptRuntime`0" priority="1" />
+      <Item value="runtime" priority="3" />
+      <Item value="class" priority="3" />
+      <Item value="Teste`0" priority="1" />
+      <Item value="new" priority="3" />
+      <Item value="private" priority="4" />
+      <Item value="return" priority="3" />
+      <Item value="teste" priority="2" />
+      <Item value="nome" priority="3" />
+      <Item value="this" priority="2" />
+      <Item value="runtimeSetup" priority="2" />
+      <Item value="ScriptEngine`0" priority="1" />
+      <Item value="engine" priority="1" />
+      <Item value="RubyEngine`0" priority="2" />
+      <Item value="appScope" priority="0" />
+      <Item value="ruby" priority="4" />
+      <Item value="RubyEngine" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="ExecutandoScriptsTexto`0" priority="1" />
+      <Item value="int" priority="2" />
+      <Item value="exec" priority="2" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="script2" priority="0" />
+      <Item value="n1" priority="0" />
+      <Item value="n2" priority="0" />
+      <Item value="a" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Scripting.Hosting.ScriptEngine">
+      <Item value="CreateScriptSourceFromString`0" priority="0" />
+      <Item value="CreateScope`0" priority="1" />
+      <Item value="GetScope`0" priority="0" />
+      <Item value="Execute`1" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Scripting.Hosting.ScriptSource">
+      <Item value="Execute`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@CSharpCriandoCodigoRuby.RubyEngineCreator">
+      <Item value="ExecuteRubyScript`0" priority="0" />
+      <Item value="SetVariable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="5" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Scripting.Hosting.ScriptScope">
+      <Item value="SetVariable`0" priority="1" />
+      <Item value="GetVariable`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Scripting.Hosting.ScriptRuntime">
+      <Item value="CreateFromConfiguration`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Scripting.Hosting.ScriptRuntime">
+      <Item value="CreateScope`0" priority="0" />
+      <Item value="GetEngine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSharpCriandoCodigoRuby.Teste">
+      <Item value="ObterNome`0" priority="1" />
+      <Item value="SetNome`0" priority="0" />
+      <Item value="Nome" priority="1" />
+      <Item value="nome" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSharpCriandoCodigoRuby.RubyEngine">
+      <Item value="Execute`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:CSharpCriandoCodigoRuby.ExecutandoScriptsTexto">
+      <Item value="Somar`0" priority="0" />
+      <Item value="CriarClasse`0" priority="0" />
+      <Item value="CriarClasseMandarParametro`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="AF93F954-629C-4FB6-A628-3549B595CAF0" ModuleId="CSharpExecutarCodigoRuby" />
+  <Module PersistentId="C076C075-8D23-474A-A31B-506E232818C5" ModuleId="CSharpExecutarCodigoRuby.Calculos" />
+  <Module PersistentId="A06D948A-60FD-4F40-A2E5-C61F44D47F8E" ModuleId="Models" />
+  <Module PersistentId="A7F63E41-E52A-40AF-805F-E0744EC52DBE" ModuleId="Calculos" />
+</Modules>

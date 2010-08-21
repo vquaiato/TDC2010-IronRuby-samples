@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.5949
+Project("{BD8E9625-815A-4BDB-B228-5D4F9C2541A1}") = "RubyWindowsForms", "RubyWindowsForms\RubyWindowsForms.rbproj", "{291C5463-1981-4AB6-95C7-04A62EA92DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291C5463-1981-4AB6-95C7-04A62EA92DD5}.Debug|x86.Build.0 = Debug|x86
+		{291C5463-1981-4AB6-95C7-04A62EA92DD5}.Debug|x86.ActiveCfg = Debug|x86
+		{291C5463-1981-4AB6-95C7-04A62EA92DD5}.Release|x86.Build.0 = Release|x86
+		{291C5463-1981-4AB6-95C7-04A62EA92DD5}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal

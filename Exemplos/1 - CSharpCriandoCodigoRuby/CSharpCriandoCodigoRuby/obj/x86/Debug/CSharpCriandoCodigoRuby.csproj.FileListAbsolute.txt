@@ -1,0 +1,20 @@
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\IronRuby.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\IronRuby.Libraries.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\CSharpCriandoCodigoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\CSharpCriandoCodigoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.exe.config
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.exe.config
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\CSharpCriandoCodigoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\CSharpCriandoCodigoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\CSharpCriandoCodigoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\IronRuby.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\IronRuby.Libraries.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\1 - CSharpCriandoCodigoRuby\CSharpCriandoCodigoRuby\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\CSharpCompartilhandoContextoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\CSharpCompartilhandoContextoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\IronRuby.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\IronRuby.Libraries.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\CSharpCompartilhandoContextoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\CSharpCompartilhandoContextoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\CSharpCompartilhandoContextoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\CSharpCompartilhandoContextoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\CSharpCompartilhandoContextoRuby.exe
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\CSharpCompartilhandoContextoRuby.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\IronRuby.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\IronRuby.Libraries.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\3 - CSharpCompartilhandoContextoRuby\CSharpCompartilhandoContextoRuby\obj\x86\Debug\ResolveAssemblyReference.cache

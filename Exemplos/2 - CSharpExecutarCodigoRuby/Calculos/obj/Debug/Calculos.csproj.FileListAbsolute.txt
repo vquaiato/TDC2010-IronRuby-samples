@@ -1,0 +1,7 @@
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\bin\Debug\Calculos.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\bin\Debug\Calculos.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\bin\Debug\Models.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\bin\Debug\Models.pdb
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\obj\Debug\Calculos.dll
+C:\Users\vinicius.quaiato\Desktop\IronRuby - TDC 2010\Exemplos\CSharpExecutarCodigoRuby\Calculos\obj\Debug\Calculos.pdb
