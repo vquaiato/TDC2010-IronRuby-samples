@@ -1,5 +1,0 @@
-C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Teste\Teste\bin\Debug\Teste.dll
-C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Teste\Teste\bin\Debug\Teste.pdb
-C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Teste\Teste\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Teste\Teste\obj\Debug\Teste.dll
-C:\Users\vinicius.quaiato\Documents\Visual Studio 2010\Projects\Teste\Teste\obj\Debug\Teste.pdb
